@@ -177,10 +177,6 @@ _Pvt_Extensions/
 ModelManifest.xml
 
 *.bak
+*.dwl
+*.dwl2
 
-real-version.wxi
-license_ro.rtf
-/Samples/510 RI Batch Import_ValuesOnly.xlsx
-/Samples/RiskEnsur Batch Import Sample File.xlsx
-/Samples/two contracts.xml
-/Samples/Kiln 510 RI Imported.xml
